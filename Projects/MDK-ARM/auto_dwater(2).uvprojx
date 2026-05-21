@@ -396,80 +396,80 @@
               <FilePath>..\..\User\main.c</FilePath>
             </File>
             <File>
-                <FileName>LCD_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\LCD_test.c</FilePath>
+              <FileName>LCD_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\LCD_test.c</FilePath>
             </File>
             <File>
               <FileName>key_test.c</FileName>
               <FileType>1</FileType>
-                <FilePath>..\..\Test\key_test.c</FilePath>
+              <FilePath>..\..\Test\key_test.c</FilePath>
             </File>
             <File>
               <FileName>TIM3_test.c</FileName>
               <FileType>1</FileType>
-                <FilePath>..\..\Test\TIM3_test.c</FilePath>
+              <FilePath>..\..\Test\TIM3_test.c</FilePath>
             </File>
             <File>
               <FileName>ADC_test.c</FileName>
               <FileType>1</FileType>
-                <FilePath>..\..\Test\ADC_test.c</FilePath>
+              <FilePath>..\..\Test\ADC_test.c</FilePath>
             </File>
-              <File>
-                <FileName>menu_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\menu_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>buzzer_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\buzzer_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>motor_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\motor_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>dht11_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\dht11_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>RTC_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\RTC_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>RTC_alarm_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\RTC_alarm_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>flash_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\flash_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>battery_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\battery_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>pwr_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\pwr_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>dwater_logic_test.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Test\dwater_logic_test.c</FilePath>
-              </File>
-              <File>
-                <FileName>system_stm32f1xx.c</FileName>
-                <FileType>1</FileType>
-                <FilePath>..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates\system_stm32f1xx.c</FilePath>
-              </File>
+            <File>
+              <FileName>menu_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\menu_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>buzzer_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\buzzer_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>motor_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\motor_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>dht11_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\dht11_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>RTC_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\RTC_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>RTC_alarm_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\RTC_alarm_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>flash_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\flash_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>battery_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\battery_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>pwr_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\pwr_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>dwater_logic_test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Test\dwater_logic_test.c</FilePath>
+            </File>
+            <File>
+              <FileName>system_stm32f1xx.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates\system_stm32f1xx.c</FilePath>
+            </File>
             <File>
               <FileName>stm32f1xx_it.c</FileName>
               <FileType>1</FileType>
