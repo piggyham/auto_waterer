@@ -1,0 +1,35 @@
+# Keil build output
+Output/
+Listings/
+Objects/
+
+# Keil temporary and generated files
+*.o
+*.d
+*.crf
+*.lst
+*.lnp
+*.map
+*.axf
+*.hex
+*.bin
+*.elf
+*.htm
+*.dep
+*.iex
+*.sct.Bak
+
+# Keil user/session files
+*.uvguix.*
+*.uvgui.*
+*.uvopt
+*.uvoptx.bak
+*.uvprojx.bak
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
